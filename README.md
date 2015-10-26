@@ -1,2 +1,2 @@
-# hello-world
-learning git
+# hello-world branch
+ making first branch
